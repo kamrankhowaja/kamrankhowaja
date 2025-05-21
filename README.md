@@ -66,6 +66,13 @@ web platform.
 
 ---
 
+## 🤝 Volunteering & Community
+
+- Referee and Judge at RoboCup Junior 2025 Rescue Line Competition, Nuremberg  
+- Active member of the World Organization of the Scout Movement for 14 years
+
+---
+
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-kamran--ali-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/theroboticguy)](https://linkedin.com/in/theroboticguy)  
